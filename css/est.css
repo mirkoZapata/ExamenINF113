@@ -1,0 +1,66 @@
+img
+{
+    height: 180px;
+    width: 150px;
+    
+}
+b
+{
+    background-color: rgba(198, 211, 25, 0.61);
+}
+h3
+{
+    color: rgb(191, 230, 20);
+}
+
+h1
+{
+    color: azure;
+}
+table
+{
+    background-color: black;
+    color: azure;
+}
+body
+{
+    background-color: black;
+    text-align: center;
+    font-family: 'GungsuhChe';
+}
+#div1{
+    background-color: rgba(24, 226, 216, 0.288);
+    float: left;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px ;
+    margin: 5px;
+    color: aliceblue;
+}
+#div2{
+    background-color: rgba(0, 255, 149, 0.247);
+    float: right;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px ;
+    margin: 5px;
+    color: aliceblue;
+}
+#div3{
+    background-color: rgba(0, 110, 255, 0.356);
+    float: left;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px ;
+    margin: 5px;
+    color: aliceblue;
+}
+#div4{
+    background-color: rgba(17, 0, 255, 0.329);
+    float: right;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px ;
+    margin: 5px;
+    color: aliceblue;
+}

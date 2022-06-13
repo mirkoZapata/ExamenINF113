@@ -1,0 +1,110 @@
+
+@media screen and (min-width:500px) {
+    table
+    {
+        background-size: 110%;
+        background-color: darkblue;
+        color: rgb(51, 226, 15);
+    }
+    body
+    {
+        background-color: black;
+        font-family: "COMIC SANS MS";
+    }
+    h2
+    {
+        background-color: rgb(102, 146, 146);
+    }
+    #div1{
+        background-color: rgba(24, 226, 216, 0.288);
+        float: left;
+        width: 48%;
+        height: auto;
+        padding-bottom: 20px ;
+        margin: 5px;
+        color: aliceblue;
+    }
+    #div2{
+        background-color: rgba(0, 255, 149, 0.247);
+        float: right;
+        width: 48%;
+        height: auto;
+        padding-bottom: 20px ;
+        margin: 5px;
+        color: aliceblue;
+    }
+    #div3{
+        background-color: rgba(0, 110, 255, 0.356);
+        float: left;
+        width: 48%;
+        height: auto;
+        padding-bottom: 20px ;
+        margin: 5px;
+        color: aliceblue;
+    }
+    #div4{
+        background-color: rgba(17, 0, 255, 0.329);
+        float: right;
+        width: 48%;
+        height: auto;
+        padding-bottom: 20px ;
+        margin: 5px;
+        color: aliceblue;
+    }
+    a{
+        background-color: aqua;
+        color:  black ;
+    }
+}
+@media screen and (max-width:500px) {
+    table
+    {
+        background-size: 110%;
+        background-color: darkblue;
+        color: rgb(51, 226, 15);
+    }
+    body
+    {
+        background-color: black;
+    }
+    h2
+    {
+        background-color: rgb(102, 146, 146);
+    }
+    #div1{
+        background-color: rgba(24, 226, 216, 0.288);
+        float: left;
+        width: 100%;
+        height: auto;
+        padding-bottom: 20px ;
+        margin: 5px;
+        color: aliceblue;
+    }
+    #div2{
+        background-color: rgba(0, 255, 149, 0.247);
+        float: right;
+        width: 100%;
+        height: auto;
+        padding-bottom: 20px ;
+        margin: 5px;
+        color: aliceblue;
+    }
+    #div3{
+        background-color: rgba(0, 110, 255, 0.356);
+        float: left;
+        width: 100%;
+        height: auto;
+        padding-bottom: 20px ;
+        margin: 5px;
+        color: aliceblue;
+    }
+    #div4{
+        background-color: rgba(17, 0, 255, 0.329);
+        float: right;
+        width: 100%;
+        height: auto;
+        padding-bottom: 20px ;
+        margin: 5px;
+        color: aliceblue;
+    }
+}
